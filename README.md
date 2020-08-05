@@ -40,3 +40,4 @@
 [website]: https://xxxx.com
 [instagram]: https://instagram.com/jithinjohn_4u
 [linkedin]: https://www.linkedin.com/in/jithinjohn/
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
