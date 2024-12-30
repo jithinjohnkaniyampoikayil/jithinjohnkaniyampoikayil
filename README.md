@@ -3,8 +3,7 @@
 ## I'm a passionate developer!
 - I’m currently working as a Software Engineer!
 - I’m currently learning everything 🤣
-- I’m looking to collaborate with other content creators
-- 2020 Goals: Contribute more to Open Source projects
+- Looking to collaborate with other content creators
 - Fun fact: I love to playig cricket and football
 
 ### Connect with me:
